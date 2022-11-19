@@ -11,6 +11,7 @@ h1, h2 {
   letter-spacing: -4px;
   font-weight: bolder;
 }
+
 /* Hero Section */
 
 #Hero-Section {
@@ -18,6 +19,10 @@ h1, h2 {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+}
+
+.dark-background {
+  background-color: #1d2230;
 }
 
 /* Mis trabajos */
