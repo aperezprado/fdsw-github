@@ -1,5 +1,6 @@
 body {
   font-family: "Raleway", sans-serif;
+  background: #EFF5F5;
 }
 
 
@@ -52,7 +53,9 @@ h1, h2 {
   color: #373a3c;
 }
 
-
+.rounded-xl {
+  border-radius: 1.5rem;
+}
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
