@@ -25,6 +25,18 @@ h1, h2 {
   background-color: #1d2230;
 }
 
+/*
+  Acerca de mi
+*/
+
+#Acerca-de-mi i.fas, #Acerca-de-mi i.far{
+  padding: 40px;
+  background: lightblue;
+  color: white;
+  border-radius: 50%;
+}
+
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
@@ -33,7 +45,6 @@ h1, h2 {
   background-size: cover;
   background-position: center;
 }
-
 /* Contacto */
 
 #Contacto form label {
